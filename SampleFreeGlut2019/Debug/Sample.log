@@ -1,0 +1,43 @@
+﻿  sample.cpp
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(283,7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(285,20): warning C4244: '+=': conversion from 'long double' to 'float', possible loss of data
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(286,20): warning C4244: '+=': conversion from 'long double' to 'float', possible loss of data
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(287,20): warning C4244: '+=': conversion from 'long double' to 'float', possible loss of data
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(307,7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(359,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(394,10): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(533,16): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(534,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(548,32): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(549,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(550,32): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(552,32): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(553,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(554,32): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(556,31): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(557,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(558,32): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(560,31): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(561,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(562,32): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(602,15): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(659,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(663,22): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(667,22): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(671,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(675,20): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(678,20): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(682,13): warning C4244: 'argument': conversion from 'long double' to 'int', possible loss of data
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(719,22): warning C4244: 'argument': conversion from 'long double' to 'int', possible loss of data
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(807,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(856,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(1173,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(1201,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(1204,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(1206,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(1209,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(1211,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(1214,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\sample.cpp(1221,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\sethh\OneDrive\Documents\OSU\Graphics\Final_Project\SampleFreeGlut2019\.\Debug\Sample.exe
